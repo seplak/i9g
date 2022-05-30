@@ -7,7 +7,7 @@ What is this?
 ## Installation
 
 ```
-go get github.com/seplak/i9g
+go install github.com/seplak/i9g
 ```
 
 ## Usage
